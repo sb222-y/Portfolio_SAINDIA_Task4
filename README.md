@@ -87,7 +87,8 @@ Vercel
 
 Netlify
 
-*For GitHub Pages:*
+
+**For GitHub Pages:**
 
 npm install gh-pages --save-dev
 
