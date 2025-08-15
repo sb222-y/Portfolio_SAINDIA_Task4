@@ -65,12 +65,15 @@ my-portfolio/
    cd my-portfolio
    
 2. **Install Dependencies**
+   
    npm install
 
-3. **Run the Development Server**
+4. **Run the Development Server**
+   
    npm start
 
-4. **Build for Production**
+5. **Build for Production**
+   
    npm run build
 
 
@@ -99,4 +102,5 @@ npm run deploy
 📧 Email: sanskrutiyewale20gmail.com
 
 📜 License
+
 This project is licensed under the MIT License – you are free to use, modify, and distribute it.
