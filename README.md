@@ -103,6 +103,7 @@ npm run deploy
 
 <img width="1366" height="728" alt="My Portfolio and 2 more pages - Profile 1 - Microsoft​ Edge 8_15_2025 1_37_34 PM" src="https://github.com/user-attachments/assets/fd79239e-22a8-44bb-887f-554052172f30" />
 
+
 📬 **Contact & Socials**
 
 📌 Author: Sanskruti Yewale
