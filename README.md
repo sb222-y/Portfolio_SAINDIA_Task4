@@ -80,13 +80,19 @@ my-portfolio/
 🚀 Deployment
 
 *You can deploy this portfolio using:*
+
 GitHub Pages
+
 Vercel
+
 Netlify
 
 *For GitHub Pages:*
+
 npm install gh-pages --save-dev
+
 npm run build
+
 npm run deploy
 
 📸 Preview
