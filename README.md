@@ -77,7 +77,7 @@ my-portfolio/
    npm run build
 
 
-🚀 Deployment
+🚀 **Deployment**
 
 *You can deploy this portfolio using:*
 
